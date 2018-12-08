@@ -34,3 +34,5 @@ function iterate(err, data) {
 // iterate(null, 'dabAcCaCBAcCcaDA')
 
 fs.readFile(fileName, 'utf8', iterate)
+
+// node day-05.js day-05.txt
